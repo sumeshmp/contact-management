@@ -1,0 +1,30 @@
+body{
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+
+  /* background-color: rgba(245, 238, 227, 0.942); */
+}
+
+.contact-img{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+.card{
+  border-radius: 20px;
+}
+
+.contact-img2{
+  width: 500px;
+  height: 500px;
+  border-radius: 50%;
+}
+.contact-img3{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin-left: auto;
+
+}
